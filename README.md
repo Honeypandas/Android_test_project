@@ -1,2 +1,2 @@
 # Android_test_project
-some test projects
+This repo contains some simple small projects.
